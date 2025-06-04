@@ -19,5 +19,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/okaditi/tailwind.git"
+  },
+  "bugs": {
+    "url": "https://github.com/okaditi/tailwind/issues"
+  },
+  "homepage": "https://github.com/okaditi/tailwind#readme",
   "description": ""
 }
